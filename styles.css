@@ -5,14 +5,6 @@
     box-sizing: border-box;
 } 
 
-:root{
-    --verified:hsl(333, 80%, 67%);
-    --box-background: hsl(300, 43%, 22%);
-    --white: hsl(0, 0%, 100%);
-    --span_bac: hsl(300, 24%, 96%);
-    --font_style: 'League Spartan', sans-serif;;
-
-}
 
 #details{
     width: 200px;
@@ -171,4 +163,13 @@ span{
   .side{
     margin-left: 0px;;
   }
+}
+
+:root{
+    --verified:hsl(333, 80%, 67%);
+    --box-background: hsl(300, 43%, 22%);
+    --white: hsl(0, 0%, 100%);
+    --span_bac: hsl(300, 24%, 96%);
+    --font_style: 'League Spartan', sans-serif;;
+
 }
